@@ -2,9 +2,6 @@
 
 Sistem pemantauan satwa liar berbasis web dengan **Role‑Based Access Control (RBAC)**, **stress testing**, dan **optimasi query SQL**. Aplikasi ini dirancang untuk membantu pemantauan insiden satwa liar, pelaporan lapangan, serta analisis data konservasi secara terpusat.
 
-> Tugas Besar Sistem Basis Data
-> Program Studi Informatika
-
 ---
 
 ## 🎯 Fitur Utama
