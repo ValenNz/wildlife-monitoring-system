@@ -2,12 +2,6 @@
 
 Sistem pemantauan satwa liar berbasis web dengan **RBAC**, **stress test**, dan **optimasi query SQL** — dibangun menggunakan **Laravel 12**.
 
-> **Tugas Besar Sistem Basis Data**  
-> Telkom University — Program Studi Informatika  
-> Nuevalen Refitra Alswando — 103072430008
-
----
-
 ## 🎯 Fitur Utama
 
 - **Role-Based Access Control (RBAC)** dengan 3 peran:
